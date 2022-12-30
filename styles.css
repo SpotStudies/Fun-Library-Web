@@ -37,14 +37,14 @@ body {
     text-align: center;
   }
   
-  h2#h2 {
+  h2.h2 {
     font: 20pt 'Baloo Thambi 2', cursive, Georgia, "Times New Roman", Times, sans-serif;
     font-weight: bolder;
     color: rgb(249, 233, 233);
     text-align: center;
   }
   
-  h3.header3 {
+  h3.h3 {
     font: 18pt 'Baloo Thambi 2', cursive, Georgia, "Times New Roman", Times, sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -60,4 +60,9 @@ body {
   footer#foot {
     font: 12pt 'Baloo Thambi 2', cursive, Georgia, "Times New Roman", Times, sans-serif;
     text-align: center;
+  }
+
+  img#logo {
+    border-radius: 10%;
+    border: 3px solid rgba(255, 174, 0, 0.767);
   }
