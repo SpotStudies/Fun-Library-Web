@@ -66,3 +66,7 @@ body {
     border-radius: 10%;
     border: 3px solid rgba(255, 174, 0, 0.767);
   }
+
+  a.a {
+    color: rgb(0, 217, 255);
+  }

@@ -1,2 +1,3 @@
 # Fun-Library-Web
-A Library's Website!
+
+This is a website for my own business of Fun Library!
